@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840">
+  <rect width="1200" height="840" fill="#eff2f3" />
+  <rect y="626" width="1200" height="214" fill="#d6d5ce" />
+  <g transform="translate(170 126)">
+    <rect x="226" y="384" width="368" height="46" rx="22" fill="#213349" />
+    <rect x="284" y="310" width="238" height="82" rx="20" fill="#f4b84e" />
+    <rect x="470" y="272" width="92" height="72" rx="16" fill="#ffe0a5" />
+    <rect x="600" y="66" width="44" height="362" fill="#213349" />
+    <rect x="618" y="94" width="96" height="22" rx="11" fill="#f4b84e" />
+    <rect x="618" y="158" width="74" height="22" rx="11" fill="#f4b84e" />
+    <rect x="618" y="222" width="86" height="22" rx="11" fill="#f4b84e" />
+    <circle cx="356" cy="444" r="44" fill="#dce6ef" />
+    <circle cx="542" cy="444" r="44" fill="#dce6ef" />
+    <circle cx="356" cy="444" r="22" fill="#13253a" />
+    <circle cx="542" cy="444" r="22" fill="#13253a" />
+  </g>
+  <text x="86" y="114" fill="#12314c" font-family="Arial, Helvetica, sans-serif" font-size="42" letter-spacing="10">DRILLING</text>
+  <text x="86" y="170" fill="#476278" font-family="Arial, Helvetica, sans-serif" font-size="28">Micropile and anchor drilling rig for compact foundation packages</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840">
+  <rect width="1200" height="840" fill="#f0f3f6" />
+  <rect y="632" width="1200" height="208" fill="#d6dbe0" />
+  <g transform="translate(200 228)">
+    <rect x="282" y="168" width="236" height="118" rx="26" fill="#f4b84e" />
+    <rect x="458" y="122" width="88" height="72" rx="16" fill="#ffe0a5" />
+    <circle cx="270" cy="332" r="76" fill="#dce6ef" />
+    <circle cx="626" cy="332" r="98" fill="#dce6ef" />
+    <circle cx="270" cy="332" r="40" fill="#95a7b8" />
+    <circle cx="626" cy="332" r="52" fill="#95a7b8" />
+    <rect x="210" y="280" width="128" height="42" rx="18" fill="#213349" />
+    <rect x="540" y="256" width="146" height="54" rx="18" fill="#213349" />
+    <rect x="364" y="278" width="196" height="22" rx="11" fill="#213349" />
+  </g>
+  <text x="86" y="114" fill="#12314c" font-family="Arial, Helvetica, sans-serif" font-size="42" letter-spacing="10">ROADWORKS</text>
+  <text x="86" y="170" fill="#476278" font-family="Arial, Helvetica, sans-serif" font-size="28">Hybrid tandem roller for resurfacing, bike lanes, and municipal repairs</text>
+</svg>

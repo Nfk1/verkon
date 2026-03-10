@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840">
+  <rect width="1200" height="840" fill="#edf2f5" />
+  <rect y="640" width="1200" height="200" fill="#dfe3e8" />
+  <g transform="translate(226 164)">
+    <rect x="202" y="402" width="364" height="44" rx="22" fill="#213349" />
+    <rect x="290" y="118" width="172" height="34" rx="14" fill="#f4b84e" />
+    <path fill="#213349" d="M304 396h-38L410 148h38z" />
+    <path fill="#213349" d="M464 396h-38L282 148h38z" />
+    <path fill="#213349" d="M386 396h-38L492 148h38z" />
+    <path fill="#213349" d="M544 396h-38L362 148h38z" />
+    <rect x="264" y="392" width="244" height="30" rx="12" fill="#f4b84e" />
+    <rect x="168" y="438" width="112" height="42" rx="16" fill="#f4b84e" />
+    <circle cx="242" cy="488" r="36" fill="#dce6ef" />
+    <circle cx="520" cy="488" r="36" fill="#dce6ef" />
+    <circle cx="242" cy="488" r="18" fill="#13253a" />
+    <circle cx="520" cy="488" r="18" fill="#13253a" />
+  </g>
+  <text x="86" y="114" fill="#12314c" font-family="Arial, Helvetica, sans-serif" font-size="42" letter-spacing="10">ACCESS</text>
+  <text x="86" y="170" fill="#476278" font-family="Arial, Helvetica, sans-serif" font-size="28">Electric scissor lift sized for indoor fit-outs and logistics halls</text>
+</svg>

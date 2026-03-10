@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820">
+  <defs>
+    <linearGradient id="bg" x1="120" x2="1080" y1="120" y2="760" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e1a30" />
+      <stop offset="1" stop-color="#0f6e8b" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="820" fill="url(#bg)" />
+  <circle cx="160" cy="176" r="96" fill="#ffffff" opacity=".06" />
+  <circle cx="1026" cy="150" r="132" fill="#ffffff" opacity=".05" />
+  <path fill="#163150" d="M0 630h1200v190H0z" />
+  <g transform="translate(180 238)">
+    <rect x="280" y="156" width="282" height="130" rx="28" fill="#f6b94c" />
+    <rect x="510" y="116" width="94" height="80" rx="18" fill="#ffdf9a" />
+    <path fill="#f6b94c" d="M590 120h146l62-118h-88z" />
+    <path fill="#f6b94c" d="M738 10h58l-42 124h-52z" />
+    <path fill="#ffe7b4" d="M556 138h38v44h-38z" />
+    <rect x="186" y="242" width="122" height="22" rx="11" fill="#cfe2ea" />
+    <rect x="126" y="238" width="80" height="28" rx="14" fill="#f6b94c" />
+    <circle cx="352" cy="312" r="62" fill="#dce7ef" />
+    <circle cx="676" cy="312" r="78" fill="#dce7ef" />
+    <circle cx="352" cy="312" r="32" fill="#0f2338" />
+    <circle cx="676" cy="312" r="40" fill="#0f2338" />
+  </g>
+  <text x="108" y="118" fill="#cfe2ea" font-family="Arial, Helvetica, sans-serif" font-size="40" letter-spacing="14">SPECDECK</text>
+  <text x="108" y="172" fill="#f4f5f7" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">Mobile equipment finder</text>
+  <text x="108" y="228" fill="#d7e4ea" font-family="Arial, Helvetica, sans-serif" font-size="28">Browse fleet availability, request offers, and review technical data from one phone-first app.</text>
+</svg>

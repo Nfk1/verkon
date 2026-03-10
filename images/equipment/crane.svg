@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840">
+  <rect width="1200" height="840" fill="#eef1f5" />
+  <rect y="632" width="1200" height="208" fill="#d8dde3" />
+  <g transform="translate(160 118)">
+    <rect x="292" y="356" width="262" height="92" rx="24" fill="#f4b84e" />
+    <rect x="470" y="308" width="90" height="72" rx="16" fill="#ffe4af" />
+    <rect x="214" y="296" width="34" height="198" fill="#213349" />
+    <path fill="#f4b84e" d="M230 306h462l146-196h-122L230 260z" />
+    <path fill="#213349" d="M792 148h40v356h-40z" />
+    <path fill="#213349" d="M798 504l-128-36 8-32 128 36z" />
+    <circle cx="360" cy="474" r="54" fill="#dfe7ef" />
+    <circle cx="546" cy="474" r="54" fill="#dfe7ef" />
+    <circle cx="360" cy="474" r="28" fill="#13253a" />
+    <circle cx="546" cy="474" r="28" fill="#13253a" />
+    <path fill="#213349" d="M814 492l-10-264 40 8 10 256z" />
+  </g>
+  <text x="86" y="114" fill="#12314c" font-family="Arial, Helvetica, sans-serif" font-size="42" letter-spacing="10">CRANE</text>
+  <text x="86" y="170" fill="#476278" font-family="Arial, Helvetica, sans-serif" font-size="28">Heavy-lift crawler prepared for structural and port operations</text>
+</svg>

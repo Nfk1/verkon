@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840">
+  <rect width="1200" height="840" fill="#eff4f6" />
+  <rect y="612" width="1200" height="228" fill="#cfd9c6" />
+  <g transform="translate(210 228)">
+    <rect x="124" y="104" width="520" height="244" rx="36" fill="#f4b84e" />
+    <rect x="424" y="144" width="166" height="128" rx="20" fill="#ffe0a5" />
+    <rect x="172" y="158" width="206" height="28" rx="14" fill="#283a4f" />
+    <rect x="172" y="210" width="146" height="18" rx="9" fill="#283a4f" opacity=".8" />
+    <rect x="172" y="244" width="112" height="18" rx="9" fill="#283a4f" opacity=".65" />
+    <circle cx="228" cy="374" r="48" fill="#dce6ef" />
+    <circle cx="552" cy="374" r="48" fill="#dce6ef" />
+    <circle cx="228" cy="374" r="24" fill="#13253a" />
+    <circle cx="552" cy="374" r="24" fill="#13253a" />
+    <rect x="670" y="154" width="46" height="154" rx="18" fill="#283a4f" />
+  </g>
+  <text x="86" y="114" fill="#12314c" font-family="Arial, Helvetica, sans-serif" font-size="42" letter-spacing="10">POWER</text>
+  <text x="86" y="170" fill="#476278" font-family="Arial, Helvetica, sans-serif" font-size="28">Silent diesel generator package for temporary compounds and backup grids</text>
+</svg>

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "titan-x320",
+    "name": "Titan X320",
+    "category": "Excavators",
+    "availability": "Available now",
+    "location": "Rotterdam yard",
+    "dailyRate": "EUR 520 / day",
+    "dailyRateValue": 520,
+    "powerSource": "Diesel",
+    "year": 2024,
+    "featuredScore": 98,
+    "summary": "32-ton crawler excavator with quick coupler and 6.8 m digging depth.",
+    "description": "Configured for deep trenching, urban demolition prep, and utility work where a fast setup and steady breakout force matter most.",
+    "highlights": [
+      "Quick coupler with four buckets included",
+      "Fuel and idle-time telemetry already installed",
+      "Road transport slot available within 24 hours"
+    ],
+    "photos": [
+      "/images/equipment/excavator.svg",
+      "/images/equipment/cockpit.svg",
+      "/images/equipment/deployment.svg"
+    ],
+    "specifications": [
+      { "label": "Operating weight", "value": "32,400 kg" },
+      { "label": "Engine output", "value": "212 kW" },
+      { "label": "Digging depth", "value": "6.8 m" },
+      { "label": "Bucket capacity", "value": "1.6 m3" },
+      { "label": "Reach at ground", "value": "10.1 m" },
+      { "label": "Travel speed", "value": "5.4 km/h" },
+      { "label": "Attachments", "value": "Buckets, breaker line, quick coupler" },
+      { "label": "Minimum rental", "value": "3 days" }
+    ]
+  },
+  {
+    "id": "atlas-lr90",
+    "name": "Atlas LR90",
+    "category": "Cranes",
+    "availability": "On request",
+    "location": "Antwerp port hub",
+    "dailyRate": "EUR 1,460 / day",
+    "dailyRateValue": 1460,
+    "powerSource": "Diesel",
+    "year": 2023,
+    "featuredScore": 94,
+    "summary": "90-ton lattice boom crawler crane for port lifts and structural steel packages.",
+    "description": "A heavy-lift unit prepared for prefabricated modules, marine cargo, and industrial shutdown work where precise load control is required.",
+    "highlights": [
+      "Load moment limiter and camera package onboard",
+      "Operator and rigging crew can be mobilized together",
+      "Engineering pack available for site lift plans"
+    ],
+    "photos": [
+      "/images/equipment/crane.svg",
+      "/images/equipment/deployment.svg",
+      "/images/equipment/cockpit.svg"
+    ],
+    "specifications": [
+      { "label": "Max lifting capacity", "value": "90 t" },
+      { "label": "Main boom length", "value": "61 m" },
+      { "label": "Jib options", "value": "12 m and 18 m" },
+      { "label": "Counterweight", "value": "29.5 t" },
+      { "label": "Travel speed", "value": "1.1 km/h" },
+      { "label": "Ground pressure", "value": "0.12 MPa" },
+      { "label": "Setup support", "value": "Lift planning and transport escort" },
+      { "label": "Minimum rental", "value": "5 days" }
+    ]
+  },
+  {
+    "id": "pulse-g450",
+    "name": "Pulse G450",
+    "category": "Power",
+    "availability": "Available now",
+    "location": "Breda service base",
+    "dailyRate": "EUR 310 / day",
+    "dailyRateValue": 310,
+    "powerSource": "Diesel",
+    "year": 2024,
+    "featuredScore": 89,
+    "summary": "Prime power generator with silent canopy for backup grids and remote compounds.",
+    "description": "Built for continuous operation on construction compounds, events, and temporary facilities with low-noise requirements.",
+    "highlights": [
+      "Remote monitoring and tank alerts included",
+      "Bunded frame for environmentally sensitive sites",
+      "Weekly service visits can be bundled in the quote"
+    ],
+    "photos": [
+      "/images/equipment/generator.svg",
+      "/images/equipment/inspection.svg",
+      "/images/equipment/deployment.svg"
+    ],
+    "specifications": [
+      { "label": "Prime power", "value": "450 kVA" },
+      { "label": "Standby power", "value": "495 kVA" },
+      { "label": "Fuel tank", "value": "760 L" },
+      { "label": "Runtime at 75% load", "value": "17.5 h" },
+      { "label": "Noise level", "value": "68 dB at 7 m" },
+      { "label": "Voltage", "value": "400/230 V" },
+      { "label": "Output sockets", "value": "Camlock, CEE 63A, CEE 125A" },
+      { "label": "Minimum rental", "value": "2 days" }
+    ]
+  },
+  {
+    "id": "arctic-mc18",
+    "name": "Arctic MC18",
+    "category": "Access",
+    "availability": "Ready in 72h",
+    "location": "Utrecht metro depot",
+    "dailyRate": "EUR 185 / day",
+    "dailyRateValue": 185,
+    "powerSource": "Electric",
+    "year": 2025,
+    "featuredScore": 91,
+    "summary": "18 m scissor lift with non-marking tires for indoor fit-outs and logistics halls.",
+    "description": "A quiet, zero-emission access platform suited to airports, retail refits, and finished industrial spaces.",
+    "highlights": [
+      "Delivered with charging kit and operator familiarization",
+      "Compact turning radius for internal corridors",
+      "Fleet software can track operating hours per shift"
+    ],
+    "photos": [
+      "/images/equipment/lift.svg",
+      "/images/equipment/inspection.svg",
+      "/images/equipment/deployment.svg"
+    ],
+    "specifications": [
+      { "label": "Working height", "value": "18 m" },
+      { "label": "Platform capacity", "value": "500 kg" },
+      { "label": "Machine width", "value": "1.25 m" },
+      { "label": "Stowed height", "value": "2.18 m" },
+      { "label": "Power", "value": "48 V electric drive" },
+      { "label": "Tire type", "value": "Non-marking solid" },
+      { "label": "Indoor rating", "value": "Suitable for finished floors" },
+      { "label": "Minimum rental", "value": "1 day" }
+    ]
+  },
+  {
+    "id": "boremax-d120",
+    "name": "BoreMax D120",
+    "category": "Drilling",
+    "availability": "On request",
+    "location": "Ghent project fleet",
+    "dailyRate": "EUR 980 / day",
+    "dailyRateValue": 980,
+    "powerSource": "Diesel",
+    "year": 2022,
+    "featuredScore": 87,
+    "summary": "Hydraulic drilling rig prepared for anchor, micropile, and geotechnical campaigns.",
+    "description": "A compact drilling package for confined urban plots, retaining walls, and foundation reinforcement where access is limited.",
+    "highlights": [
+      "Works with CFA, DTH, and casing tooling packs",
+      "Spoil management kit available as an add-on",
+      "Site mobilization plan reviewed before dispatch"
+    ],
+    "photos": [
+      "/images/equipment/drill.svg",
+      "/images/equipment/cockpit.svg",
+      "/images/equipment/deployment.svg"
+    ],
+    "specifications": [
+      { "label": "Max drilling depth", "value": "24 m" },
+      { "label": "Torque", "value": "120 kNm" },
+      { "label": "Feed stroke", "value": "3.7 m" },
+      { "label": "Pull-down force", "value": "110 kN" },
+      { "label": "Transport width", "value": "2.45 m" },
+      { "label": "Auxiliary winch", "value": "7 t" },
+      { "label": "Recommended crew", "value": "Operator plus assistant" },
+      { "label": "Minimum rental", "value": "4 days" }
+    ]
+  },
+  {
+    "id": "roadline-v7",
+    "name": "RoadLine V7",
+    "category": "Roadworks",
+    "availability": "Available now",
+    "location": "Eindhoven fleet center",
+    "dailyRate": "EUR 270 / day",
+    "dailyRateValue": 270,
+    "powerSource": "Hybrid",
+    "year": 2024,
+    "featuredScore": 90,
+    "summary": "7-ton tandem roller for asphalt repair, bike lanes, and municipal resurfacing.",
+    "description": "Designed for compact urban road packages that need a quiet roller with automatic vibration control and fast daily turnaround.",
+    "highlights": [
+      "Water spray system and edge cutters included",
+      "Hybrid drive lowers fuel burn on stop-start routes",
+      "Can be quoted with delivery before morning shift"
+    ],
+    "photos": [
+      "/images/equipment/roller.svg",
+      "/images/equipment/inspection.svg",
+      "/images/equipment/deployment.svg"
+    ],
+    "specifications": [
+      { "label": "Operating weight", "value": "7,050 kg" },
+      { "label": "Drum width", "value": "1.68 m" },
+      { "label": "Centrifugal force", "value": "72/53 kN" },
+      { "label": "Travel speed", "value": "12 km/h" },
+      { "label": "Water tank", "value": "760 L" },
+      { "label": "Drive", "value": "Hybrid propulsion" },
+      { "label": "Vibration control", "value": "Automatic front and rear" },
+      { "label": "Minimum rental", "value": "2 days" }
+    ]
+  }
+]

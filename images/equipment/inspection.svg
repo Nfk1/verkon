@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840">
+  <rect width="1200" height="840" fill="#eff3f4" />
+  <g transform="translate(176 150)">
+    <rect x="138" y="118" width="620" height="342" rx="36" fill="#ffffff" />
+    <rect x="186" y="176" width="302" height="30" rx="15" fill="#213349" opacity=".84" />
+    <rect x="186" y="242" width="428" height="20" rx="10" fill="#8ea4b3" />
+    <rect x="186" y="294" width="392" height="20" rx="10" fill="#8ea4b3" />
+    <rect x="186" y="346" width="356" height="20" rx="10" fill="#8ea4b3" />
+    <circle cx="634" cy="206" r="82" fill="#f4b84e" />
+    <path fill="#213349" d="M664 260l76 76-28 28-76-76z" />
+    <circle cx="634" cy="206" r="42" fill="#213349" opacity=".18" />
+  </g>
+  <text x="86" y="114" fill="#12314c" font-family="Arial, Helvetica, sans-serif" font-size="42" letter-spacing="10">INSPECTION</text>
+  <text x="86" y="170" fill="#476278" font-family="Arial, Helvetica, sans-serif" font-size="28">Condition checks, service logs, and compliance notes ready for approval</text>
+</svg>

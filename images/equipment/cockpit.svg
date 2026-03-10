@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840">
+  <rect width="1200" height="840" fill="#eff3f5" />
+  <g transform="translate(164 116)">
+    <rect x="188" y="102" width="656" height="408" rx="40" fill="#213349" />
+    <rect x="236" y="146" width="560" height="256" rx="26" fill="#9bd3e5" />
+    <rect x="282" y="194" width="214" height="24" rx="12" fill="#213349" opacity=".8" />
+    <rect x="282" y="250" width="284" height="18" rx="9" fill="#213349" opacity=".52" />
+    <rect x="282" y="290" width="244" height="18" rx="9" fill="#213349" opacity=".52" />
+    <rect x="606" y="190" width="122" height="122" rx="18" fill="#f4b84e" />
+    <circle cx="370" cy="538" r="86" fill="#f4b84e" />
+    <circle cx="370" cy="538" r="34" fill="#213349" />
+    <circle cx="682" cy="538" r="86" fill="#f4b84e" />
+    <circle cx="682" cy="538" r="34" fill="#213349" />
+  </g>
+  <text x="86" y="114" fill="#12314c" font-family="Arial, Helvetica, sans-serif" font-size="42" letter-spacing="10">OPERATOR VIEW</text>
+  <text x="86" y="170" fill="#476278" font-family="Arial, Helvetica, sans-serif" font-size="28">Monitoring display and control layout prepared for shift handover</text>
+</svg>

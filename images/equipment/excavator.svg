@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840">
+  <rect width="1200" height="840" fill="#edf2f6" />
+  <rect y="612" width="1200" height="228" fill="#d7e0c9" />
+  <g transform="translate(150 228)">
+    <rect x="330" y="170" width="280" height="118" rx="28" fill="#f4b84e" />
+    <rect x="542" y="130" width="108" height="78" rx="16" fill="#ffdca0" />
+    <path fill="#f4b84e" d="M604 124h122l148-154h-90z" />
+    <path fill="#f4b84e" d="M814-14h52l-52 168h-56z" />
+    <path fill="#2c4250" d="M286 278h396v36H286z" />
+    <rect x="236" y="272" width="86" height="46" rx="18" fill="#f4b84e" />
+    <circle cx="406" cy="334" r="66" fill="#dce4ec" />
+    <circle cx="658" cy="334" r="86" fill="#dce4ec" />
+    <circle cx="406" cy="334" r="34" fill="#13253a" />
+    <circle cx="658" cy="334" r="42" fill="#13253a" />
+  </g>
+  <text x="86" y="114" fill="#12314c" font-family="Arial, Helvetica, sans-serif" font-size="42" letter-spacing="10">EXCAVATOR</text>
+  <text x="86" y="170" fill="#476278" font-family="Arial, Helvetica, sans-serif" font-size="28">Crawler unit ready for trenching and demolition setup</text>
+</svg>
